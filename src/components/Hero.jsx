@@ -22,7 +22,7 @@ const Hero = () => {
             {/* hero-text */}
             <div className="flex max-w-[500px] hero-text flex-col  relative  justify-center ">
               <h1 className="flex font-poppins  font-bold ss:text-[60px] text-[52px] text-[#2d2e32] ss:leading-tight leading-[75px]">
-                Full Stack MERN
+                FULL STACK MERN
                 <br className="sm:block hidden" /> Developer
               </h1>
               <p className=" flex justify-center text-[#767676] text-500 font-mulish text-xl leading-[30.8px]">
