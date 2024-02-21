@@ -26,8 +26,8 @@ const Hero = () => {
                 <br className="sm:block hidden" /> Developer
               </h1>
               <p className=" flex justify-center text-[#767676] text-500 font-mulish text-xl leading-[30.8px]">
-                Hi, I'm Happy Panchal. A passionate React Developer studying my
-                major in CSE at IIIT Sonepat. 📍
+                Hi, I'm Happy Panchal. A passionate Full Stack Developer
+                studying my major in CSE at IIIT Sonepat. 📍
               </p>
               <span className="my-9 flex flex-row">
                 <a
