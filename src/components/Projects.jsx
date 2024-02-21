@@ -28,10 +28,12 @@ const Projects = () => {
                 </h3>
                 <div className="overflow-hidden">
                   <p className=" w-[22rem] text-center mb-2 text-[#767676] font-mulish text-xl text-500 leading-tight  ...break-all">
-                    Happy Estate is Full stack Real estate marketplace web
-                    app.It has features like user authentication, user can add
-                    property,delete property,update property,search
-                    property,view property,view all properties.
+                    Happy Estate is a full-stack real estate marketplace web
+                    application leveraging a tech stack comprising MongoDB,
+                    Node.js, Express.js, and React.js. This platform offers
+                    robust user authentication capabilities alongside essential
+                    CRUD operations such as adding, deleting, and updating
+                    properties.
                   </p>
                 </div>
 

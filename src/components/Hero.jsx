@@ -21,9 +21,17 @@ const Hero = () => {
           <div className="flex sm:flex-row sm:gap-60 gap-20 w-full flex-col-reverse items-center">
             {/* hero-text */}
             <div className="flex max-w-[500px] hero-text flex-col  relative  justify-center ">
-              <h1 className="flex font-poppins  font-bold ss:text-[60px] text-[52px] text-[#2d2e32] ss:leading-tight leading-[75px]">
-                FULL STACK MERN
-                <br className="sm:block hidden" /> Developer
+              <h1 className="flex flex-col font-poppins  font-bold ss:text-[60px] text-[52px] text-[#305b5d] ss:leading-tight leading-[75px]">
+                <div className="">
+                  FULL STACK
+                  <br className="sm:block hidden" />
+                  <div className="text-[#ffa361]">MERN</div>
+                </div>
+                <div>
+                  <div className="bg-gradient-to-br from-neon-pink to-neon-blue text-[#305b5d]">
+                    Developer
+                  </div>
+                </div>
               </h1>
               <p className=" flex justify-center text-[#767676] text-500 font-mulish text-xl leading-[30.8px]">
                 Hi, I'm Happy Panchal. A passionate Full Stack Developer
